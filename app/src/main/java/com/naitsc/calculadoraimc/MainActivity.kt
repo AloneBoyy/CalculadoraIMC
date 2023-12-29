@@ -81,4 +81,8 @@ class MainActivity : AppCompatActivity() {
 
         return super.onOptionsItemSelected(item)
     }
+
+    private fun olar(){
+
+    }
 }
